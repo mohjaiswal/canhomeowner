@@ -119,7 +119,7 @@ Visualizing actionable results.
 ## Links
 
 Github Repo: 
-[https://github.com/ft-p1team05/canhomeowner](https://github.com/ft-p1team05/canhomeowner)
+[https://github.com/ft-p1team05/canhomeowner] (https://github.com/ft-p1team05/canhomeowner)
 
 GeoPy:
 [https://geopy.readthedocs.io/en/stable/](https://geopy.readthedocs.io/en/stable/)
