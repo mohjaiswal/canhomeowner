@@ -1,4 +1,5 @@
 # CanHomeOwner
+![Header](HeaderCanHomeOwner.png)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/ft-p1team05/canhomeowner)
 [![Data Analysis](https://img.shields.io/badge/Data-Analysis-brightgreen)]()
 [![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)]()
