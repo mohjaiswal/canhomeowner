@@ -82,44 +82,8 @@ Average Mortgage Monthly Payments (pct_change) and  Gross Rent (pct_change)
 
 ![Interest Rates](plots/romain/interest_rates.png)
 
-The calculator can estimates your living expenses.
+The calculator estimates your living expenses.
 
 ![Mortgage Calculator](plots/romain/calculator.png)
 
-
-### How big of a factor is school quality?
-
-Other than size and price the investors factors real estates based on schools.
-
-**HOW ARE SCHOOLS DETERMINED?**
-
-1. Schools are determined based on Rankings. 
-2. Ranking happens based on Graduation rate, Literacy rate, School Demographics (ethnicity and socioeconomic status of students, teacher qualifications, class size, and graduation rates.) and activities available after school hours.
-3. The investors who don’t have school aged kids in their family, still look for properties located near school zones which is because, it will help in increasing the resale value in the future.
-4. There are 83 School Boards in Ontario which has 4024 elementary school & intermediate schools and there are 902 secondary schools. The data provided also gives the number of schools present in each regions in province which helps in narrowing down the region you would like to invest/rent.
-
-![Literacy and Graduation Rates](plots/arun/graduation_vs_literacy-bar.png)
-
-### How affordable is Canadian real estate based on income?
-
-At a given income level, what home price are Canadians able to afford?
-
 ![Home Prices vs Affordability based on Income](plots/juil/affordability_vs_price.png)
-
-There is a clear trend of home prices crossing outside of lower income bracket affordability.
-
-## Challenges
-
-Getting historical and clean real estate data.
-
-Merging everyone’s code into the same notebook.
-
-Visualizing actionable results.
-
-## Links
-
-Github Repo: 
-[https://github.com/ft-p1team05/canhomeowner] (https://github.com/ft-p1team05/canhomeowner)
-
-GeoPy:
-[https://geopy.readthedocs.io/en/stable/](https://geopy.readthedocs.io/en/stable/)
