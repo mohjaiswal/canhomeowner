@@ -4,7 +4,7 @@
 [![Data Analysis](https://img.shields.io/badge/Data-Analysis-brightgreen)]()
 [![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)]()
 
-A comprehensive analysis tool developed as part of the UofT Fintech Bootcamp, focusing on the Canadian real estate market. It integrates financial, demographic, and regional data to provide insights into housing affordability, investment opportunities, and market trends.
+A comprehensive analysis tool focusing on the Canadian real estate market. It integrates financial, demographic, and regional data to provide insights into housing affordability, investment opportunities, and market trends.
 
 ## Project Overview
 
