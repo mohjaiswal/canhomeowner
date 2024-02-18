@@ -1,8 +1,8 @@
 # CanHomeOwner
 ![Header](headerCanhomeOwner.png)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/ft-p1team05/canhomeowner)
-[![Data Analysis](https://img.shields.io/badge/Data-Analysis-brightgreen)]()
-[![Machine Learning](https://img.shields.io/badge/Data-Analysis-brightgreen)
+![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-brightgreen)()
+![Machine Learning](https://img.shields.io/badge/Data-Analysis-brightgreen)
 
 A comprehensive analysis tool focusing on the Canadian real estate market. It integrates financial, demographic, and regional data to provide insights into housing affordability, investment opportunities, and market trends.
 
