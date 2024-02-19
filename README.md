@@ -25,6 +25,10 @@ This project aims to address critical questions in real estate investment and pe
 - **Web Scraping:** BeautifulSoup
 - **Geospatial Analysis:** GeoPy
 
+## Results
+There is a clear trend of housing prices to start escaping income.
+![Output Image](plots/juil/affordability_vs_price.png)
+
 ## How to Use
 
 Clone the repository and navigate to the project directory:
